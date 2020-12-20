@@ -1,4 +1,4 @@
-# Quiz_Application
+# Quiz Application
 
 # Development server
 
